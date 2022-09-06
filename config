@@ -1,0 +1,15 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = C:\\ооп\\Work1
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "upstream"]
+	url = C:\\ооп\\Work1
+	fetch = +refs/heads/*:refs/remotes/upstream/*
+[advice]
+	addEmptyPathspec = false
